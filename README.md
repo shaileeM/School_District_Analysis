@@ -8,12 +8,13 @@ The analysis includes to remove those scores and analyse how is the performance 
 
 ## Results
 
-###
-1. count for reading and math score changed to 38709 from 39170(after changing math and reading score to 0 for THS(9th grade)
-2. students in 9th grade at THS are 461 and remaining are 38709
-
-3. % of students who scored more than 70% in math after removing 9th grade is 74.76 and reading is 85.659
-   with 9th grade , % students who got more than 70% are 74.9808 and reading are 85.80
-   
-4. % of students who passed in both after removing 9th grade are 64.855
-   with 9th grade, % students who got more than 70% in both are 65.17
+### District Summary
+1. There were 461(1.2%) students whose Math and Reading scores were nullified out of total 39,170 students. 
+2. By doing so we see percentage count of students who scored more than 70% in maths drops by 0.2 and percentage of students who scored more than 
+   70% in Reading drops by 0.1.  Also the percentage count of students who scored more than 70% in both math and reading dropped by 0.3. 
+3. It indicates that the students at Thomas High School in 9th grade did not perform well and scored very less than the average percentage. 
+   Hence we do not see much difference in the overall data with our without removing the marks for students in 9th grade at Thomas High School. 
+   - Disctrict high school summary with nullified 9th grade data at Thomas High School
+   ![](./Resources/DistrictSummary_No9thGrade.PNG)
+   - Disctrict high school summary with all data
+   ![](./Resources/DisctrictSummary_with9thGrade.PNG)
