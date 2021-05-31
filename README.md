@@ -38,20 +38,21 @@ The analysis includes to remove those scores and analyse how is the performance 
 	![](./Resources/ReadingScoreByGrade.PNG)
 
 2. Scores by school spending 
-   - By replacing the ninth-grade scores to nan, we do not any difference in the scores. Which means ninth-grade scores at Thomas High Scool did not 
-     make any change to the overall scores. 
+   - By replacing the ninth-grade scores to nan, we do not any difference in the scores. 
+    Which means ninth-grade scores at Thomas High Scool did not 
+    make any change to the overall scores. 
 	Score by school spending:
 	![](./Resources/BySchoolSpending.PNG)
 	
 3. Scores by school size
    - Size of Thomas high school is Medium and the scores for the school remained same 
      even after editing the 9th grade scores. 
-     ![](.Resources/SchoolSize.PNG)
+    ![](.Resources/SchoolSize.PNG)
 	
 4. Scores by school type
    - Thomas High Schools is a Charter type of school and the scores of this type of 
      schools did not affect much by removing scores to null.
-     ![](.Resources/TypeSummary.PNG)
+    ![](.Resources/TypeSummary.PNG)
 	
 	 
  
