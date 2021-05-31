@@ -27,7 +27,7 @@ The analysis includes to remove those scores and analyse how is the performance 
    ![](./Resources/School_summary_no9th.PNG)
 
 ### School Summary
-
+1. There is not much difference in the overall data with or without removing the marks for students in 9th grade at Thomas High School. 
 
 ### By replacing the ninth-grade scores
 1. Math and reading scores by grade
@@ -57,3 +57,6 @@ The analysis includes to remove those scores and analyse how is the performance 
 	 
  
 ## Summary
+   1. There was no effect or change after updating values will null. 
+    For type of school, school size, spending there was hardly any change in the overall performance. 
+	Hence by removing 9th grade at Thomas High School will not make much difference. 
